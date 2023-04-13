@@ -7,7 +7,9 @@ header nav ul
  {
 	list-style:none; 
 }
-
+p{
+    align-content: normal;
+}
 header nav ul li a
 {
 	float: left; 
